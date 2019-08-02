@@ -7,7 +7,6 @@
 ![效果图](https://github.com/15031021126/chat/blob/master/app/src/main/res/mipmap-xxhdpi/chat.png)
 
 
-gif
 ![效果图](https://github.com/15031021126/chat/blob/master/app/src/main/res/mipmap-xxhdpi/chatgif.gif)
 
 
